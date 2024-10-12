@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on softwre building
 - 📫 How to reach me mail: nizarsenbati@gmail.com
-- ⚡ Fun fact: i have a pet pigeon living on the roof of my house
+- ⚡ Fun fact: i have a pet pigeon
