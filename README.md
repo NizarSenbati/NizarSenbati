@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NizarSenbati
-- 👀 I’m interested in computer science, motoSport Engineering
+- 👀 I’m interested in computer science, cybersecurity's intersection with AI's ML/DL
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on softwre building
 - 📫 How to reach me mail: nizarsenbati@gmail.com
